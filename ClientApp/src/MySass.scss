@@ -1,0 +1,27 @@
+﻿$myColor: aqua;
+$myColor2: black;
+$colortext :white;
+$colortext2 : green;
+.badge {
+    color: $myColor;
+   
+}
+.card{
+
+    background-color : primary;
+}
+.card-title {
+    color: $myColor;
+
+}
+
+.card-text {
+    color: red;
+}
+
+#id1{
+    height:inherit;
+    width:100%;
+    float:left;
+    display:flex;
+}
